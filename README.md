@@ -142,7 +142,7 @@ databricks-de-associate-cert-prep/
 
 ## About
 
-**Keshav Kaushik** — Data Engineer with 3 years of production experience at Maruti Suzuki India Limited (MSIL).
+**Keshav Kaushik** — Data Engineer with 3+ years of production experience at Maruti Suzuki India Limited (MSIL).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-kaushik-599162363/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/keshavkaushik0990)
